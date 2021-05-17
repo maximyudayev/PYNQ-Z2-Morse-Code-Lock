@@ -1,0 +1,1 @@
+-wto "beb728bf2bb74a80a2838ee32ed0b560" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "morse_code_lock_TB_behav" "xil_defaultlib.morse_code_lock_TB" -log "elaborate.log" 

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2492745636935961150  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto beb728bf2bb74a80a2838ee32ed0b560 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot morse_code_lock_TB_behav xil_defaultlib.morse_code_lock_TB" , 
+    buildDate : "Nov  6 2019" , 
+    buildTime : "21:42:20" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/morse_code_lock_TB_behav/xsimk\"   \"xsim.dir/morse_code_lock_TB_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/morse_code_lock_TB_behav/obj/xsim_1.lnx64.o\" -L\"/usr/local/Xilinx/Vivado/2019.2/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

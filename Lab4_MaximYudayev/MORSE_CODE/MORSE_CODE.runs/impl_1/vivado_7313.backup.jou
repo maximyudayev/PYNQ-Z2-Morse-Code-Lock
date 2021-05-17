@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun May 31 15:30:09 2020
+# Process ID: 7313
+# Current directory: /home/maxim/Vivado/Lab4/MORSE_CODE/MORSE_CODE.runs/impl_1
+# Command line: vivado -log morse_code_lock.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source morse_code_lock.tcl -notrace
+# Log file: /home/maxim/Vivado/Lab4/MORSE_CODE/MORSE_CODE.runs/impl_1/morse_code_lock.vdi
+# Journal file: /home/maxim/Vivado/Lab4/MORSE_CODE/MORSE_CODE.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source morse_code_lock.tcl -notrace
